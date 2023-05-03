@@ -1,10 +1,7 @@
-# ingles
-
 | | | | |
 |-|-|-|-|
-|title|sections| | |
-| |sectionName|lessons| |
-| | |lessonName|videoUrl|
+<br/>
+|Nivel|Area|Titulo Lição |Link
 |A1 - Iniciante|Gramática |1 - Present Simple|https://www.youtube.com/watch?v=Z19NAX_gWxI|
 | | |2 - Pronouns|https://www.youtube.com/watch?v=1_6-iVACkLA|
 | | |3 - Articles|https://www.youtube.com/watch?v=3zJQoQLCeNo|
@@ -59,6 +56,8 @@
 | | |11 - Requesting / offering|https://www.youtube.com/watch?v=lrbCu0fngqQ|
 | | |12 - Asking permission|https://www.youtube.com/watch?v=0M5QZmxzL7c|
 | | |13 - Making suggestions|https://www.youtube.com/watch?v=Sse2FKrC_DE|
+<br/>
+|Nivel|Area|Titulo Lição |Link
 |A2 – Básico|Gramática |1 - Countable / uncountable nouns|https://www.youtube.com/watch?v=bhgzqbv9Rxk|
 | | |2 - Adverbs of frequency and manner|https://www.youtube.com/watch?v=mY1ZBTmKqCc|
 | | |3 - Too / not enough|https://www.youtube.com/watch?v=q4xfTdojGEM|
@@ -113,6 +112,8 @@
 | | |21 - Apologizing|https://www.youtube.com/watch?v=qJiWCzULfco|
 | | |22 - Congratulating|https://www.youtube.com/watch?v=eoq6tswNwjA|
 | | |23 - Talking about future arrangements|https://www.youtube.com/watch?v=rCB_MquVtR4|
+<br/>
+|Nivel|Area|Titulo Lição |Link
 |B1 – Intermediário|Gramática |1 - Past Continuous|https://www.youtube.com/watch?v=bTWa5M4UMO8|
 | | |2 - Present Perfect|https://www.youtube.com/watch?v=vd0yESrQMs0|
 | | |3 - Going to and will for predictions and future events and spontaneous decisions|https://www.youtube.com/watch?v=VX95vEL-OdU|
@@ -158,6 +159,8 @@
 | | |12 - Making offers|https://www.youtube.com/watch?v=bUPDNCnbMvQ|
 | | |13 - Talking about obligation|https://www.youtube.com/watch?v=BgIjV8dkpp0|
 | | |14 - Requesting|https://www.youtube.com/watch?v=VA9w14sFZww|
+<br/>
+|Nivel|Area|Titulo Lição |Link
 |B2 – Intermediário Superior|Gramática |1 - Used to + infinitive|https://www.youtube.com/watch?v=4ueDhlHZG6A|
 | | |2 - Past Simple and Present Perfect|https://www.youtube.com/watch?v=0PJh5M68AzI|
 | | |3 - Neither / so do I|https://www.youtube.com/watch?v=kbd_CajdXaw|
@@ -198,6 +201,8 @@
 | | |5 - Talking about possibility, probability and certainty|https://www.youtube.com/watch?v=wdhps_l-5d8|
 | | |6 - Describing faulty goods|https://www.youtube.com/watch?v=4KPq5j9UtXI|
 | | |7 - Refusing|https://www.youtube.com/watch?v=SawWNkPVECU|
+<br/>
+|Nivel|Area|Titulo Lição |Link
 |C1 – Avançado|Gramática |1 - Habit in the Present and habit in the past|https://www.youtube.com/watch?v=WJAzQehrCLo|
 | | |2 - Present Perfect Simple and Present Perfect Continuous|https://www.youtube.com/watch?v=YwY1SvH3Mp8|
 | | |3 - Past Simple and Past Continuous and Past Perfect|https://www.youtube.com/watch?v=e0q24_bB_54|
@@ -241,6 +246,8 @@
 | | |10 - Clarifying|https://www.youtube.com/watch?v=hRixnML0Dnc|
 | | |11 - Order arguments|https://www.youtube.com/watch?v=JIOlcqvXFkU|
 | | |12 - Giving examples|https://www.youtube.com/watch?v=Hmk1S_aZ3rA|
+<br/>
+|Nivel|Area|Titulo Lição |Link
 |C2 – Proficiente|Gramática |1 - Uses of continuous tenses|https://www.youtube.com/watch?v=23sIBk6gL4w|
 | | |2 - Uses of would|https://www.youtube.com/watch?v=Imfmh66zlX8|
 | | |3 - Past Perfect|https://www.youtube.com/watch?v=9QU5bqql8Kg|

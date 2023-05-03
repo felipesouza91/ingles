@@ -55,8 +55,8 @@
 | | |11 - Requesting / offering|https://www.youtube.com/watch?v=lrbCu0fngqQ|
 | | |12 - Asking permission|https://www.youtube.com/watch?v=0M5QZmxzL7c|
 | | |13 - Making suggestions|https://www.youtube.com/watch?v=Sse2FKrC_DE|
-<br/>
 
+| | | | |
 |-|-|-|-|
 |Nivel|Area|Titulo Lição |Link
 |A2 – Básico|Gramática |1 - Countable / uncountable nouns|https://www.youtube.com/watch?v=bhgzqbv9Rxk|
@@ -113,7 +113,6 @@
 | | |21 - Apologizing|https://www.youtube.com/watch?v=qJiWCzULfco|
 | | |22 - Congratulating|https://www.youtube.com/watch?v=eoq6tswNwjA|
 | | |23 - Talking about future arrangements|https://www.youtube.com/watch?v=rCB_MquVtR4|
-<br/>
 
 | | | | |
 |-|-|-|-|
@@ -163,7 +162,6 @@
 | | |12 - Making offers|https://www.youtube.com/watch?v=bUPDNCnbMvQ|
 | | |13 - Talking about obligation|https://www.youtube.com/watch?v=BgIjV8dkpp0|
 | | |14 - Requesting|https://www.youtube.com/watch?v=VA9w14sFZww|
-<br/>
 
 | | | | |
 |-|-|-|-|
@@ -208,7 +206,6 @@
 | | |5 - Talking about possibility, probability and certainty|https://www.youtube.com/watch?v=wdhps_l-5d8|
 | | |6 - Describing faulty goods|https://www.youtube.com/watch?v=4KPq5j9UtXI|
 | | |7 - Refusing|https://www.youtube.com/watch?v=SawWNkPVECU|
-<br/>
 
 | | | | |
 |-|-|-|-|
@@ -256,7 +253,6 @@
 | | |10 - Clarifying|https://www.youtube.com/watch?v=hRixnML0Dnc|
 | | |11 - Order arguments|https://www.youtube.com/watch?v=JIOlcqvXFkU|
 | | |12 - Giving examples|https://www.youtube.com/watch?v=Hmk1S_aZ3rA|
-<br/>
 
 | | | | |
 |-|-|-|-|
